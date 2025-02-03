@@ -9,6 +9,9 @@ Project 1 collaboration project (Samantha + Anglelo)
 - color picker
 - anchor bookmark
 - accordion
+- checkboxes
+- file upload
+- text area input field
 
 ## Contribution
 
